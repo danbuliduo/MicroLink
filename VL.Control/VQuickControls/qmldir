@@ -1,0 +1,3 @@
+﻿module VQuickControls
+VPushButton 1.0 VPushButton.qml
+VTitleMessageDialog 1.0 VTitleMessageDialog.qml

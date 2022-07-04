@@ -1,0 +1,6 @@
+include($$PWD/LinkProtocolSuite/LinkProtocolSuite.pri)
+include($$PWD/PublicClass/PublicClass.pri)
+include($$PWD/System/System.pri)
+include($$PWD/MicroCV/MicroCV.pri)
+include($$PWD/Model/Model.pri)
+include($$PWD/Debug/src/statusbar.pri)

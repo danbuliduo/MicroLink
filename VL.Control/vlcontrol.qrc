@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>VQuickControls/VPushButton.qml</file>
+        <file>VQuickControls/VTitleMessageDialog.qml</file>
+        <file>VMagicEffect/VFlipHorizontal.qml</file>
+        <file>VQuickControls/images/icons8_multiply_96px.png</file>
+        <file>vlian.js</file>
+        <file>VQuickControls/qmldir</file>
+        <file>VMagicEffect/qmldir</file>
+    </qresource>
+</RCC>

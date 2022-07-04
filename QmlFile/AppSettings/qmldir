@@ -1,0 +1,5 @@
+﻿singleton QtTheme 1.0 ThemeFamily/QtTheme.qml
+singleton CyanTheme 1.0 ThemeFamily/CyanTheme.qml
+singleton RedTheme 1.0 ThemeFamily/RedTheme.qml
+singleton BaseSettings 1.0 BaseSettings.qml
+singleton UserSettings 1.0 UserSettings.qml
