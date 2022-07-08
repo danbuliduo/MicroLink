@@ -11,6 +11,7 @@ QT += charts                                #图表
 QT += websockets webview         #WEB
 QT += bluetooth                          #蓝牙
 QT += core-private
+QT += svg
 android
 {
     HEADERS += CoreFile/AppInit.h
